@@ -1,1 +1,1 @@
-# 2D-Array---DS-ds
+# 2D-Array---DS-ds The function iterates over all possible 3×3 hourglass positions in the 6×6 array, calculating the sum of each hourglass. It keeps track of the maximum sum found and returns it after checking all hourglasses.
